@@ -1,0 +1,17 @@
+{
+  "name": "dispatcher",
+  "description": "Front-end to administer and monitor the Transitland Datastore",
+  "main": "",
+  "authors": [
+    "Bryan Rayner <bryan@rideshark.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/RideShark/transitland-dispatcher",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
